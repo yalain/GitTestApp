@@ -6,6 +6,8 @@
         <Button Content="Button" HorizontalAlignment="Left" Height="32" Margin="89,73,0,0" VerticalAlignment="Top" Width="86"/>
         <TextBox HorizontalAlignment="Left" Height="35" Margin="150,153,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="122"/>
         <TextBlock HorizontalAlignment="Left" Height="66" Margin="223,39,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="260"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="38" Margin="31,138,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox HorizontalAlignment="Left" Height="41" Margin="272,235,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="126"/>
 
     </Grid>
 </Window>
