@@ -1,0 +1,1 @@
+f:\Users\yalain\Documents\Visual Studio 2013\Projects\GitTestApp\GitTestApp\bin\Debug\GitTestApp.exe.config
